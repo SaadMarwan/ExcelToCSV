@@ -23,7 +23,7 @@ namespace MyDotNetActivityNS
     {
         public const int FirstRow = 1;
         public const int LastRow = 372;
-        public const string SheetName = "FY16 Data";
+        public const string SheetName = "Sheet Name";
         /// <summary>
         /// Execute method is the only method of IDotNetActivity interface you must implement.
         /// In this sample, the method invokes the Calculate method to perform the core logic.  
